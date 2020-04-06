@@ -1,4 +1,9 @@
-/*
+/* FROM Handsfree-Fuild-Dispenser by Darkroasted
+
+To be found at https://github.com/darkroasted/Handsfree-Fluid-Dispenser.git
+
+
+#####SETUP PARAMETERS
 Adjust the following variables to suit your needs!
 
 - The flowrate: how much milliseconds the servo will remain in a down 
