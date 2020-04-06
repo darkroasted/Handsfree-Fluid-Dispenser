@@ -31,6 +31,7 @@ Tools
 1. Glue the servo to the bottle and connect a stiff piece of wire to the servo and test that it will be able to trigger the water when activated.
 
 ###INSERT IMAGE
+
 2. Next, you must connect all the components as is shown in this diagram below.
 
 ###insert image
